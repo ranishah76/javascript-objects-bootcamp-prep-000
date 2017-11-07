@@ -3,7 +3,6 @@ var playlist = {
 'Taylor Swift': 'Love Story'
 }
 
-
 function updatePlaylist (playlist, artistName, songTitle)
 playlist[artistName] = songTitle
 }
